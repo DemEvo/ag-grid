@@ -428,11 +428,10 @@
     ////////////////////////////////////////
     // Icons
     ////////////////////////////////////////
-    $icons: aggregation arrows asc checkbox-checked-readonly checkbox-checked
-            checkbox-indeterminate-readonly checkbox-indeterminate checkbox-unchecked-readonly checkbox-unchecked
-            column columns contracted copy cut desc expanded eye-slash eye filter group indeterminate left loading menu
-            minus none not-allowed paste pin pivot plus right radio-button-on radio-button-off small-left small-right 
-            small-up small-down tick cross tree-open tree-closed tree-indeterminate;
+    $icons: aggregation arrows asc checkbox-solid-checked checkbox-checked checkbox-indeterminate checkbox-indeterminate 
+            checkbox-unchecked column columns contracted copy cut desc expanded eye-slash eye filter group indeterminate 
+            left loading menu minus none not-allowed paste pin pivot plus right radio-button-on radio-button-off small-left 
+            small-right small-up small-down tick cross tree-open tree-closed tree-indeterminate;
 
     @each $icon in $icons {
         .ag-icon-#{$icon} {
@@ -445,14 +444,6 @@
     .ag-header-cell-menu-button .ag-icon-menu {
         display: block;
         height: $header-height;
-    }
-
-    .ag-icon-checkbox-checked:empty {
-        @include colorful-icon($icons-path, "checkbox-checked", $accent-color, map-get($params, "alt-icon-color"));
-    }
-    
-    .ag-icon-radio-button-on:empty {
-        @include colorful-icon($icons-path, "radio-button-on", $accent-color, map-get($params, "alt-icon-color"));
     }
 
     ////////////////////////////////////////
@@ -583,7 +574,7 @@
 
                 @each $icon in $icons {
                     .ag-icon-#{$icon} {
-                        @include colorful-icon($icons-path, $icon, $primary-color, map-get($params, "alt-icon-color"));
+                        color: $primary-color;
 
                         display: inline-block;
                     }

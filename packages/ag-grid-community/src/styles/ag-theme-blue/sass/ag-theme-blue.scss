@@ -9,7 +9,7 @@
     .ag-header {
         @each $icon in $inverted-icons {
             .ag-icon-#{$icon} {
-                @include colorful-icon($icons-path, '#{$icon}', white, white);
+                color: #FFF;
                 display: inline-block;
             }
         }
@@ -19,7 +19,7 @@
 
     @each $icon in $tab-icons {
         .ag-tab-header .ag-tab:not(.ag-tab-selected) .ag-icon-#{$icon} {
-            @include colorful-icon($icons-path, '#{$icon}', white, white);
+            color: #FFF;
         }
     }
 

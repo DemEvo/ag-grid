@@ -204,28 +204,7 @@ function scssTask() {
                     },
                     {
                         test: /\.(svg)$/,
-                        use: [
-                            'cache-loader',
-                            {
-                                loader: 'url-loader',
-                                options: {
-                                    limit: 8192
-                                }
-                            },
-                            {
-                                loader: 'image-webpack-loader',
-                                options: {
-                                    svgo: svgMinOptions
-                                }
-                            },
-                            {
-                                loader: 'svg-colorize-loader',
-                                options: {
-                                    color1: "#000000",
-                                    color2: "#FFFFFF"
-                                }
-                            }
-                        ]
+                        loader: 'svg-url-loader'
                     }
                 ]
             },

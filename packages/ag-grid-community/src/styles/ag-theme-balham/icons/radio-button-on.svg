@@ -11,11 +11,11 @@
             <g>
                 <use xlink:href="#ghxeBAf4X" opacity="1" fill="#f02861" fill-opacity="0"></use>
                 <g clip-path="url(#clipbPwia5vv5)">
-                    <use xlink:href="#ghxeBAf4X" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="2" stroke-opacity="1"></use>
+                    <use xlink:href="#ghxeBAf4X" opacity="1" fill-opacity="0" stroke="currentColor" stroke-width="2" stroke-opacity="1"></use>
                 </g>
             </g>
             <g>
-                <use xlink:href="#aBdrqgOZ" opacity="1" fill="#000000" fill-opacity="1"></use>
+                <use xlink:href="#aBdrqgOZ" opacity="1" fill="currentColor" fill-opacity="1"></use>
             </g>
         </g>
     </g>

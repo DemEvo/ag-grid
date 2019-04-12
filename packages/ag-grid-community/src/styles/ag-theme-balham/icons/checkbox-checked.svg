@@ -1,18 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" focusable="false">
-    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>checkbox-checked</title>
-    <desc>Created with Sketch.</desc>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16" focusable="false">
     <defs>
-        <rect id="path-1" x="1" y="1" width="14" height="14" rx="2"></rect>
+        <path d="M9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.74L9.1 11.73L9.1 11.73L9.1 11.73L9.1 11.73L9.1 11.73L9.1 11.73L9.1 11.73L9.1 11.73L9.1 11.73L9.1 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.73L9 11.72L9 11.72L9 11.72L9 11.72L9 11.72L9 11.72L9 11.72L9 11.72L9 11.72L9 11.72L9 11.72L9 11.72L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.64L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.63L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.64L9.15 11.72L9.15 11.72L9.15 11.72L9.15 11.72L9.15 11.72L9.15 11.72L9.15 11.72L9.15 11.72L9.15 11.72L9.15 11.72L9.15 11.72L9.15 11.72L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.15 11.73L9.14 11.73L9.14 11.73L9.14 11.73L9.14 11.73L9.14 11.73L9.14 11.73L9.14 11.73L9.14 11.73L9.14 11.73L9.14 11.73L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.14 11.74L9.1 11.74L9.1 11.74L9.1 11.74Z" id="aOYETLi8K"></path>
+        <path d="M14.43 0.5C15.02 0.5 15.5 0.98 15.5 1.57C15.5 4.36 15.5 11.64 15.5 14.43C15.5 15.02 15.02 15.5 14.43 15.5C11.64 15.5 4.36 15.5 1.57 15.5C0.98 15.5 0.5 15.02 0.5 14.43C0.5 11.64 0.5 4.36 0.5 1.57C0.5 0.98 0.98 0.5 1.57 0.5C4.36 0.5 11.64 0.5 14.43 0.5Z" id="aK39Qdlim"></path>
+        <clipPath id="cliph9axyI4dN">
+            <use xlink:href="#aK39Qdlim" opacity="1"></use>
+        </clipPath>
+        <path d="M8.36 11.26L8.36 11.26L6.04 14.06L1.75 8.88L4.07 6.08L6.04 8.46L11.93 1.35L14.25 4.15L8.36 11.26Z" id="b1JKDsV8xI"></path>
+        <path d="M8.26 9.22L8.26 9.22L6.59 11L3.5 7.65L4.07 7.05L6.56 9.66L11.92 4L12.5 4.63L8.26 9.22Z" id="b1wI6b3z6q"></path>
     </defs>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="checkbox-checked">
-            <g id="Rectangle">
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
-                <rect stroke="#000000" stroke-width="1" x="1.5" y="1.5" width="13" height="13" rx="2"></rect>
+    <g>
+        <g>
+            <g>
+                <use xlink:href="#aOYETLi8K" opacity="1" fill="currentColor" fill-opacity="0.51"></use>
             </g>
-            <polyline id="Path-2" stroke="#000000" points="12 5 6.5 10.5 4 8"></polyline>
+            <g>
+                <use xlink:href="#aK39Qdlim" opacity="1" fill="#ffffff" fill-opacity="1"></use>
+                <g clip-path="url(#cliph9axyI4dN)">
+                    <use xlink:href="#aK39Qdlim" opacity="1" fill-opacity="0" stroke="currentColor" stroke-width="2" stroke-opacity="1"></use>
+                </g>
+            </g>
+            <g>
+                <use xlink:href="#b1JKDsV8xI" opacity="1" fill="currentColor" fill-opacity="0"></use>
+            </g>
+            <g>
+                <use xlink:href="#b1wI6b3z6q" opacity="1" fill="currentColor" fill-opacity="1"></use>
+            </g>
         </g>
     </g>
 </svg>

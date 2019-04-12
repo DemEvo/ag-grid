@@ -52,17 +52,18 @@ export class AgCheckbox extends Component {
     }
 
     private loadIcons(): void {
-        _.clearElement(this.eChecked);
-        _.clearElement(this.eUnchecked);
-        _.clearElement(this.eIndeterminate);
+        const iconElements = [this.eChecked, this.eUnchecked, this.eIndeterminate];
+
+        iconElements.forEach(_.cleanNumber);
+
+        this.eChecked.appendChild(_.createIconNoSpan('checkboxChecked', this.gridOptionsWrapper, null));
+        this.eUnchecked.appendChild(_.createIconNoSpan('checkboxUnchecked', this.gridOptionsWrapper, null));
+        this.eIndeterminate.appendChild(_.createIconNoSpan('checkboxIndeterminate', this.gridOptionsWrapper, null));
+
         if (this.readOnly) {
-            this.eChecked.appendChild(_.createIconNoSpan('checkboxCheckedReadOnly', this.gridOptionsWrapper, null));
-            this.eUnchecked.appendChild(_.createIconNoSpan('checkboxUncheckedReadOnly', this.gridOptionsWrapper, null));
-            this.eIndeterminate.appendChild(_.createIconNoSpan('checkboxIndeterminateReadOnly', this.gridOptionsWrapper, null));
-        } else {
-            this.eChecked.appendChild(_.createIconNoSpan('checkboxChecked', this.gridOptionsWrapper, null));
-            this.eUnchecked.appendChild(_.createIconNoSpan('checkboxUnchecked', this.gridOptionsWrapper, null));
-            this.eIndeterminate.appendChild(_.createIconNoSpan('checkboxIndeterminate', this.gridOptionsWrapper, null));
+            iconElements.forEach(icon => {
+                _.addCssClass(icon, 'ag-readonly');
+            });
         }
     }
 
